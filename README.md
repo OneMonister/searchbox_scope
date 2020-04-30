@@ -1,7 +1,7 @@
 # Roundcube plugin searchbox_scope
 Roundcube plugin to set the default search box scope to "All folders" and all fields except "Body" and "Entire message"
 
-Afer entering something into the Roundcube search box many users think it will look in all folders, but Roundecube by default searches only in the currently selected folder. To change the search scope the user has to manually click on the little arrow in the search box and select "All folders". Moreover this settings is not even retained, so each time the user clicks on another folder (or again on the same folder) the serach cospe goes back to "Current folder"
+Afer entering something into the Roundcube search box many users think it will look in all folders, but Roundecube by default searches only in the current selected folder. To change the search scope the user has to manually click on the little arrow in the search box and select "All folders". Moreover these settings are not even retained, hence each time the user clicks on another folder (or again on the same folder) the search scope goes back to "Current folder".
 This plugin changes the default search scope to "All folders", and and all fields except "Body" and "Entire message" *
 
 ![Rouncube default search box](https://i.imgur.com/pGto4Ha.jpg)
