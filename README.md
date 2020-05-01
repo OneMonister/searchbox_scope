@@ -6,7 +6,7 @@ This plugin changes the default search scope to "All folders", and and all field
 
 ![Rouncube default search box](https://i.imgur.com/pGto4Ha.jpg)
 
-<sub>[*] for performance reasons it's better to keep "Body" and "Entire message" uncheked</sub>
+<sub>[*] for performance reasons it's better to keep "Body" and "Entire message" unchecked</sub>
 
 ## How to install this plugin in Roundcube
 
