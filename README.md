@@ -23,7 +23,7 @@ TODO...
 ### Install manually
 1. Create folder `searchbox_scope` in `ROUNDCUBE_HOME/plugins` (on cPanel based servers is located in `/usr/local/cpanel/base/3rdparty/roundcube/plugins/`)
 2. Copy all plugin files there.
-3. If you want you can change some beahviour by editing `ROUNDCUBE_HOME/plugins/searchbox_scopeconfig.inc.php`.
+3. TODO: If you want you can change some beahviour by editing `ROUNDCUBE_HOME/plugins/searchbox_scope/config.inc.php`.
 4. Edit `ROUNDCUBE_HOME/config/config.inc.php` (on cPanel based servers is located in `/usr/local/cpanel/base/3rdparty/roundcube/config/`) locate `$config['plugins']` and add `'searchbox_scope',` there (e.g. `$config['plugins'] = ['searchbox_scope', 'calendar', ...];`)
 
 
