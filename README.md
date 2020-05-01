@@ -8,6 +8,8 @@ This plugin changes the default search scope to "All folders", and and all field
 
 <sub>[*] for performance reasons it's better to keep "Body" and "Entire message" unchecked</sub>
 
+ref. [official guide to build Roundcube plugins](https://github.com/roundcube/roundcubemail/wiki/Plugin-API)
+
 ## How to install this plugin in Roundcube
 
 ### Requirements
@@ -27,4 +29,4 @@ TODO...
 4. Edit `ROUNDCUBE_HOME/config/config.inc.php` (on cPanel based servers is located in `/usr/local/cpanel/base/3rdparty/roundcube/config/`) locate `$config['plugins']` and add `'searchbox_scope',` there (e.g. `$config['plugins'] = ['searchbox_scope', 'calendar', ...];`)
 
 
-ref. [official guide to build Roundcube plugins](https://github.com/roundcube/roundcubemail/wiki/Plugin-API)
+
