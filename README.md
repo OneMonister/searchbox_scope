@@ -27,4 +27,4 @@ TODO...
 4. Edit `ROUNDCUBE_HOME/config/config.inc.php` (on cPanel based servers is located in `/usr/local/cpanel/base/3rdparty/roundcube/config/`) locate `$config['plugins']` and add `'searchbox_scope',` there (e.g. `$config['plugins'] = ['searchbox_scope', 'calendar', ...];`)
 
 
-test
+ref. [official guide to build Roundcube plugins](https://github.com/roundcube/roundcubemail/wiki/Plugin-API)
