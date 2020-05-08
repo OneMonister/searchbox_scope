@@ -1,7 +1,7 @@
 //window.alert("client.js"); //DEBUG
 //console.log("client.js"); //DEBUG
 
-(function()
+$(function()
 {
    var f = function(evt)
    {
@@ -36,6 +36,6 @@
    **************************************************************************************************/
    rcmail.addEventListener('init', f);
    rcmail.addEventListener('selectfolder', f);
-})();
+});
 
 
